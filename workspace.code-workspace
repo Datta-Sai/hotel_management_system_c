@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "E:\\C - COMPUTER PROGRAMMING\\C TUTORIALS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
